@@ -1,6 +1,7 @@
 # Meezan-Bank-Internship-2025
 Report completed during my internship at Meezan Bank, covering banking operations, finance, and practical learning.
-# This repository contains my internship report completed during my internship at Meezan Bank. The report highlights my practical experience, learning outcomes, banking operations, and observations regarding Islamic banking practices.
+
+This repository contains my internship report completed during my internship at Meezan Bank. The report highlights my practical experience, learning outcomes, banking operations, and observations regarding Islamic banking practices.
 
 # Internship Details
 Organization: Meezan Bank Limited
