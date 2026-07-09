@@ -1,36 +1,25 @@
-# Meezan-Bank-Internship-2025
+# Meezan Bank Internship Report
 
-# Overview
+## Overview
 This repository contains my internship report completed during my internship at Meezan Bank. It highlights my practical learning, banking operations, and experience in an Islamic banking environment.
 
-# Internship Details
-Organization: Meezan Bank Limited
-Department: Business Administration
-Duration: 15 June 2025 – 16 July 2025
-University: GC Women University Sialkot
-Program: Bachelor of Business Administration (Finance)
+## Internship Details
+- **Organization:** Meezan Bank Limited
+- **Duration:** 15 June 2025 – 16 July 2025
+- **Program:** BBA (Finance)
+- **University:** GC Women University Sialkot
 
-# Topics Covered
-Introduction to Meezan Bank
-Islamic Banking Principles
-Branch Operations
-Customer Services
-Account Opening Process
-Clearing and Remittance
-Cash Operations
-Trade Finance
-Learning Outcomes
-Recommendations
-Conclusion
+## Key Learning Areas
+- Islamic Banking
+- Account Opening
+- Customer Service
+- Clearing Operations
+- Documentation
+- Banking Procedures
+- Professional Communication
 
-# Skills Gained
-Banking Operations
-Customer Handling
-Documentation
-Financial Analysis
-Communication Skills
-Teamwork
-Professional Ethics
+## Repository Contents
+- `Meezan_Bank_Internship_Report.pdf` – Complete internship report
 
-# Disclaimer
-This report is shared only for academic and portfolio purposes. Confidential customer information and internal banking data have been excluded.
+## Disclaimer
+This report is shared for academic and portfolio purposes only. Any confidential or customer-specific information has been omitted.
